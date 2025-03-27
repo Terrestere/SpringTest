@@ -1,4 +1,4 @@
-package com.mirs.springboot.springtest;
+package com.mirs.springtest;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
